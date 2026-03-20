@@ -51,7 +51,9 @@ A arquitetura separa claramente as responsabilidades: a Cloud Function de ingest
 │   └── dag_breweries.py        # DAG Airflow: orquestra todo o pipeline
 └── README.md
 ```
+## Arquitetura de Dados
 
+![Arquitetura na GCP](arq_breweries.png)
 ---
 
 ## Diagrama do Pipeline
