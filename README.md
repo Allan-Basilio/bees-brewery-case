@@ -95,7 +95,7 @@ flowchart TD
 ---
 ## DAG no Airflow
 
-![DAG Breweries Pipeline](assets/exec_dag_airflow_bees.png)
+![DAG Breweries Pipeline](exec_dag_airflow_bees.png)
 ## Camadas do Data Lake
 
 ### Bronze — `raw/breweries/YYYY-MM/`
